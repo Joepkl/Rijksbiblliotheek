@@ -1,0 +1,71 @@
+
+body{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+main{
+  border: 10px solid black;
+  height: 350px;
+  width: 600px;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  justify-content: space-between;
+  background-color: lightblue;
+  box-shadow: 0 0 30px black;
+}
+
+ul{
+  list-style:none;
+}
+
+p.bold{
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+article.rechts p{
+  margin-bottom: 20px;
+}
+
+article.rechts{
+  width: 250px;
+  display: flex;
+  margin-right: 30px;
+
+}
+
+article.links{
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+article.links p{
+  margin: 20px 0px 0px 0px;
+}
+
+a{
+  color: indigo;
+  text-decoration: none;
+}
+
+a:hover{
+  color: darkblue;
+  text-decoration: underline;
+}
+
+h1{
+  margin: 25px 0px 0px 20px;
+}
+
+img{
+  width:150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-top: 30px;
+}
