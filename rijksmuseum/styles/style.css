@@ -7,6 +7,7 @@ body{
     width: 100vw;
     font-family: "ayar";
     background-color: rgb(64, 71, 79);
+    cursor: pointer;
 }
 
 @font-face {
@@ -37,6 +38,7 @@ li h2{
     background-color: beige;
     padding: 1vw;
     margin: 0;
+    width: 38vw;
 }
 
 img{
@@ -96,4 +98,24 @@ p{
     color: white;
     font-size: 2vw;
     margin-top: 3vw;
+}
+
+p:nth-of-type(2){
+   text-decoration: underline;
+}
+
+p:nth-of-type(3){
+    text-decoration: underline;
+ }
+
+ p:nth-of-type(4){
+    text-decoration: underline;
+ }
+
+ 
+ /* Loading state styling */
+section{
+    text-align: center;
+    font-size: 2vw;
+    color: beige;
 }
