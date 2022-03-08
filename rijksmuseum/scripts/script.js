@@ -15,5 +15,9 @@ document.getElementById('zoekForm').addEventListener('submit', function(prevent)
 })
 
 
-// Eventlistener home button
-document.getElementById('homeButton').addEventListener('click',  )
+// Verschijnen van home button na zoeken
+function verschijnen(){
+    document.getElementById('homeButton').style.display = 'block'
+}
+
+document.getElementById('zoekForm').addEventListener('submit', verschijnen)
