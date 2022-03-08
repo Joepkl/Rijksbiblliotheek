@@ -1,40 +1,19 @@
-// 1. variables (aka bindings), on top of global scope
-const linkApi = "https://www.rijksmuseum.nl/api/nl/collection?key=SOmD5CX7&involved"
+import {pakData} from '../modules/data.js'
+import {zoekData} from '../modules/search.js'
 
 
-
-const feedback = document.querySelector("section")
-feedback.textContent= "De content is aan het laden..."
-
-// const error = document.getElementById("errorMelding")
-// error.textContent= "Er kon geen content worden geladen."
-
-// 2. the story
+// Hier wordt de functie om de API data te halen aangeroepen
 pakData()
 
 
-// 3. functions
-function pakData() {
-    fetch(linkApi)
-    .then(function(reactie){
-        return reactie.json()
-    }
-    )
-    .then(function(data){
-        console.log(data)
 
-        const lijst = $("ul")
-        for(let i = 0; data.artObjects.length; i++){
-            lijst.insertAdjacentHTML("beforebegin", `<li><h2>${data.artObjects[i].title}</h2><img src="${data.artObjects[i].webImage.url}" alt="${data.artObjects[i].title}"></li>`)
-            feedback.textContent = ""
 
-        }
-    }
+// Eventlistener om te zoeken
+document.getElementById('zoekForm').addEventListener('submit', function(prevent){
+    prevent.preventDefault();
+    zoekData();
+})
 
-    )
 
-}
-
-function $(element) {
-    return document.querySelector(element)
-}
+// Eventlistener home button
+document.getElementById('homeButton').addEventListener('click',  )
