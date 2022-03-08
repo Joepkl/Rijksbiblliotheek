@@ -8,9 +8,9 @@
     <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
-    <form action="">
-        <input type="search" placeholder="Zoek naar kunst...">
-        <button>Zoeken</button>
+    <form id="zoekForm">
+        <input id="zoekbalk" type="text" placeholder="Zoek naar kunst...">
+        <button type="submit" id="zoekButton" value="search">Zoeken</button>
     </form>
     <header>
         <h1>Rijksmuseum</h1>
@@ -19,14 +19,20 @@
         <p>Al leuk vanaf 4 jaar</p>
         <p>Gratis t/m 18 jaar</p>
     </header>
+    <button id="homeButton">Terug naar homepagina</button>
     <h2>Uitgelichte kunstwerken</h2>
     <section>
     </section> 
+    <main>
+        <div>
+            <ul></ul>
+        </div>
+    </main>   
+
     <p id="errorMelding"></p>
-    <div>
-        <ul></ul>
-    </div>
-    
-    <script src="scripts/script.js"></script>
+
+    <section id="resultsList"></section>
+
+    <script type="module" src="scripts/script.js"></script>
 </body>
 </html>
