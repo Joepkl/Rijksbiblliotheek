@@ -37,13 +37,13 @@ In de derde week ben ik de grote function om data te laden en renderen op gaan s
 
 <img width="350" alt="Schermafbeelding 2022-03-08 om 18 15 20" src="https://user-images.githubusercontent.com/74242736/157290252-4939640d-1803-4992-87e1-94f6fb66392c.png">
 
-<img width="785" alt="Schermafbeelding 2022-03-08 om 18 16 04" src="https://user-images.githubusercontent.com/74242736/157290371-03f6a08b-f807-41af-95d0-28d83d923d67.png">
+<img width="350" alt="Schermafbeelding 2022-03-08 om 18 16 04" src="https://user-images.githubusercontent.com/74242736/157290371-03f6a08b-f807-41af-95d0-28d83d923d67.png">
 
-<img width="669" alt="Schermafbeelding 2022-03-08 om 18 16 29" src="https://user-images.githubusercontent.com/74242736/157290433-1bb08d71-9838-4e3b-a829-fd7fb0bc6661.png">
+<img width="350" alt="Schermafbeelding 2022-03-08 om 18 16 29" src="https://user-images.githubusercontent.com/74242736/157290433-1bb08d71-9838-4e3b-a829-fd7fb0bc6661.png">
 
 
 ## Eindproduct
-foto van beginpagina en features wat kan je ermee
+<img width="615" alt="Schermafbeelding 2022-03-08 om 18 18 25" src="https://user-images.githubusercontent.com/74242736/157290801-d02332f8-b699-4d19-aeda-cad7719f8d21.png">
 
 ## Link naar de webapp
 
