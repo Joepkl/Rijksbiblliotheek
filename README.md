@@ -22,7 +22,8 @@ Om duidelijk te krijgen welke states en verschillende schermen er moeten komen h
 
 ## Wat gedaan per week?
 
-### Week 1
+#### Week 1
+Ik ben begonnen met
 
 ## Eindproduct
 
