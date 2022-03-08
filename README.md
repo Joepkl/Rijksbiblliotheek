@@ -45,7 +45,7 @@ In de derde week ben ik de grote function om data te laden en renderen op gaan s
 ## Eindproduct
 <img width="615" alt="Schermafbeelding 2022-03-08 om 18 18 25" src="https://user-images.githubusercontent.com/74242736/157290801-d02332f8-b699-4d19-aeda-cad7719f8d21.png">
 
-..* jhbb
+* jhbb
 
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
