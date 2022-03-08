@@ -17,14 +17,11 @@ body{
 
 
 /* Uitgelichte foto's styling */
-div{
+div ul{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-}
-
-ul{
-    width: 100vw;
+    padding: 0;
 }
 
 li{
@@ -101,21 +98,34 @@ p{
 }
 
 p:nth-of-type(2){
-   text-decoration: underline;
+   border: 2px solid white;
+   width: fit-content;
+   padding: 0.5vw;
 }
 
 p:nth-of-type(3){
-    text-decoration: underline;
+    border: 2px solid white;
+    width: fit-content;
+    padding: 0.5vw;
  }
 
  p:nth-of-type(4){
-    text-decoration: underline;
+    border: 2px solid white;
+    width: fit-content;
+    padding: 0.5vw;
  }
 
  
  /* Loading state styling */
 section{
     text-align: center;
-    font-size: 2vw;
+    font-size: 3vw;
     color: beige;
+}
+
+/* Empty state styling */
+#errorMelding{
+    color: beige;
+    font-size: 3vw;
+    text-align: center;
 }
