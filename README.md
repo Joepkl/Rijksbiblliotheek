@@ -1,8 +1,9 @@
 # Rijksmuseum Single Page Webapp
 
-## h2
+## Breakdown schets
 
-<img width="497" alt="Schermafbeelding 2022-02-10 om 15 12 42" src="https://user-images.githubusercontent.com/74242736/157235911-db1bed69-3167-4914-b6ac-9549382289f4.png">
+<img width="615" alt="breakdown schets wafs" src="https://user-images.githubusercontent.com/74242736/157248554-b81d496e-d08d-4ac0-8478-f8100afa3011.png">
+
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
