@@ -15,7 +15,7 @@ Voor dit project ben ik een webapp gaan maken voor het Rijksmuseum. Ik maak hier
 
 Om duidelijk te krijgen welke states en verschillende schermen er moeten komen heb ik een wireflow gemaakt. Hierin is de flow te zien tussen schermen, en wanneer de gebruiker welke state te zien krijgt. 
 
-<img width="478" alt="wireflow wafs" src="https://user-images.githubusercontent.com/74242736/157252368-a80e8b15-de4f-4fc5-a81d-bb31c4509ab9.png">
+<img width="615" alt="wireflow wafs" src="https://user-images.githubusercontent.com/74242736/157252368-a80e8b15-de4f-4fc5-a81d-bb31c4509ab9.png">
 
 
 ## Activity diagram
