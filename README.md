@@ -1,4 +1,6 @@
-Rijksmuseum Single Page Webapp
+# Rijksmuseum Single Page Webapp
+
+## h2
 
 <img width="497" alt="Schermafbeelding 2022-02-10 om 15 12 42" src="https://user-images.githubusercontent.com/74242736/157235911-db1bed69-3167-4914-b6ac-9549382289f4.png">
 
