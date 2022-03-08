@@ -23,7 +23,9 @@ Om duidelijk te krijgen welke states en verschillende schermen er moeten komen h
 ## Wat gedaan per week?
 
 ### Week 1
-Ik ben begonnen met
+Ik ben begonnen met proberen de data van de API te laden in de website. Om uit te testen of het werkt heb ik het eerst in de console geladen. Ook ben ik aan de slag gegaan met de user interface van de website. Ik heb in HTML en CSS een begin gemaakt van hoe de website er uit moet komen te zien. 
+
+<img width="561" alt="Schermafbeelding 2022-03-08 om 18 07 31" src="https://user-images.githubusercontent.com/74242736/157288860-ab8a0fb5-4e48-49b5-8cd1-07657e500765.png">
 
 ### Week 2
 jhbaa
