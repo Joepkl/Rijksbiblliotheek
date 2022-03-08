@@ -25,6 +25,10 @@ Om duidelijk te krijgen welke states en verschillende schermen er moeten komen h
 #### Week 1
 Ik ben begonnen met
 
+#### Week 2
+jhbaa
+
+
 ## Eindproduct
 
 ## Link naar de webapp
