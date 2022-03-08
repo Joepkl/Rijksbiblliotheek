@@ -19,9 +19,6 @@ Om duidelijk te krijgen welke states en verschillende schermen er moeten komen h
 
 
 
-## Activity diagram
-
-
 
 ## Wat gedaan per week?
 
