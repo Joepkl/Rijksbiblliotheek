@@ -46,8 +46,11 @@ In de derde week ben ik de grote function om data te laden en renderen op gaan s
 <img width="615" alt="Schermafbeelding 2022-03-08 om 18 18 25" src="https://user-images.githubusercontent.com/74242736/157290801-d02332f8-b699-4d19-aeda-cad7719f8d21.png">
 
 ### Livelink webapp
-* [https://joepkl.github.io/Rijksbiblliotheek/rijksmuseum-goed/]
+* https://joepkl.github.io/Rijksbiblliotheek/rijksmuseum-goed/
 
+Features van de webapp:
+* Uitgelichte kunstwerken bekijken
+* Zoeken naar kunst of kunstenaars
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
