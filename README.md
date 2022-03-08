@@ -28,13 +28,22 @@ Ik ben begonnen met proberen de data van de API te laden in de website. Om uit t
 <img width="350" alt="Schermafbeelding 2022-03-08 om 18 07 31" src="https://user-images.githubusercontent.com/74242736/157288860-ab8a0fb5-4e48-49b5-8cd1-07657e500765.png">
 
 ### Week 2
-jhbaa
+In de tweede week was ik bezig om te zorgen dat de data werd gerenderd in de HTML. Dit was in het begin erg lastig maar met wat hulp kwam ik er wel uit. Ook ben ik verder gegaan met de UI van de website, en heb ik ervoor gezorgd dat de website responsive is. 
 
-### Week 2
-jhbaa
+<img width="350" alt="Schermafbeelding 2022-03-08 om 18 11 17" src="https://user-images.githubusercontent.com/74242736/157289543-78de5d61-9e5e-4d74-b56e-3d3866ac33ac.png">
+
+### Week 3
+In de derde week ben ik de grote function om data te laden en renderen op gaan splitsen in modules. Ook heb ik een module gemaakt om te zorgen dat de zoekfunctie werkt. Verder ben ik begonnen aan states toe te voegen aan de webapp zoals empty, loading en de error state. Dit heb ik toegepast bij het laden van uitgelichte kunstwerken en zoekresultaten. Ook heb ik na het code review nog een paar kleine aanpassingen gedaan zoals een terug naar home button toevoegen in het zoekscherm. 
+
+<img width="350" alt="Schermafbeelding 2022-03-08 om 18 15 20" src="https://user-images.githubusercontent.com/74242736/157290252-4939640d-1803-4992-87e1-94f6fb66392c.png">
+
+<img width="785" alt="Schermafbeelding 2022-03-08 om 18 16 04" src="https://user-images.githubusercontent.com/74242736/157290371-03f6a08b-f807-41af-95d0-28d83d923d67.png">
+
+<img width="669" alt="Schermafbeelding 2022-03-08 om 18 16 29" src="https://user-images.githubusercontent.com/74242736/157290433-1bb08d71-9838-4e3b-a829-fd7fb0bc6661.png">
 
 
 ## Eindproduct
+foto van beginpagina en features wat kan je ermee
 
 ## Link naar de webapp
 
