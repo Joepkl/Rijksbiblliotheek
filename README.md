@@ -64,7 +64,7 @@ Ook ben ik bezig geweest om de hash states toe te voegen aan de SPA van het Rijk
 ## Activity diagram
 Ik heb een activity diagram gemaakt om duidelijk in beeld te brengen welke JS wanneer wordt aangeroepen. In het diagram zijn de verschillende pagina's en states van de webapp te zien. De verbanden tussen de pagina's zijn met pijlen aangegeven, en daaronder staat vermeld welke JS module wordt aangeroepen.
 
-<img width="1068" alt="Schermafbeelding 2022-03-11 om 11 40 40" src="https://user-images.githubusercontent.com/74242736/157851842-fbdc686e-4692-4100-8f75-2ee2e80f08b3.png">
+<img width="1150" alt="Schermafbeelding 2022-03-11 om 11 40 40" src="https://user-images.githubusercontent.com/74242736/157851842-fbdc686e-4692-4100-8f75-2ee2e80f08b3.png">
 
 
 
