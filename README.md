@@ -41,6 +41,11 @@ In de derde week ben ik de grote function om data te laden en renderen op gaan s
 
 <img width="350" alt="Schermafbeelding 2022-03-08 om 18 16 29" src="https://user-images.githubusercontent.com/74242736/157290433-1bb08d71-9838-4e3b-a829-fd7fb0bc6661.png">
 
+### Hash URL
+Ook ben ik bezig geweest om de hash states toe te voegen aan de SPA van het Rijksmuseum. Met hulp van Jorn is het uiteindelijk gelukt om de hash toe te voegen aan de URL. Als je zoekt naar een kunstwerk wordt de zoekopdracht toegevoegd aan de URL en krijg je de zoekresultaten te zien. Alleen werken de loading en error state niet meer. Ook werd de uitgelichte kunstwerken constant vervangen door: "Zoekresultaten voor" terwijl dit pas de bedoeling is als de zoekopdracht wordt ingevoerd. Ik heb hier samen met Jorn nog aan gezeten alleen lukte ons het niet om het helemaal werkend te krijgen. Vandaar dat ik de versie van de SPA met hash states in een apart mapje in Github heb gezet. Zo kon ik toch laten zien dat ik met de hash states heb geëxperimenteerd. De livelink op Github is de versie van mijn SPA waarin alles nog werkte zoals ik bedoelde zonder de routie. Hieronder nog een foto om te laten zien dat de hash achter de URL komt te staan na een zoekopdracht.
+
+<img width="600" alt="Schermafbeelding 2022-03-11 om 11 12 23" src="https://user-images.githubusercontent.com/74242736/157847345-d5396b7c-e52a-402d-92dd-864bde70a832.png">
+
 
 ## Verschillende states
 
