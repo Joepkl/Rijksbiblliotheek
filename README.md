@@ -42,6 +42,21 @@ In de derde week ben ik de grote function om data te laden en renderen op gaan s
 <img width="350" alt="Schermafbeelding 2022-03-08 om 18 16 29" src="https://user-images.githubusercontent.com/74242736/157290433-1bb08d71-9838-4e3b-a829-fd7fb0bc6661.png">
 
 
+## Verschillende states
+
+### Empty state
+<img width="905" alt="Schermafbeelding 2022-03-11 om 10 51 27" src="https://user-images.githubusercontent.com/74242736/157843764-d4fffe11-11fe-42a6-9757-d1c8b481dea4.png">
+
+
+### Loading state
+<img width="905" alt="Schermafbeelding 2022-03-11 om 10 49 23" src="https://user-images.githubusercontent.com/74242736/157843443-f7ba7f45-0613-4fd4-a6b8-e3304ec8dd30.png">
+
+
+### Error state
+<img width="905" alt="Schermafbeelding 2022-03-11 om 10 50 23" src="https://user-images.githubusercontent.com/74242736/157843566-078a5108-497d-4b91-b47a-df1f36e85d04.png">
+
+
+
 ## Eindproduct
 <img width="615" alt="Schermafbeelding 2022-03-08 om 18 18 25" src="https://user-images.githubusercontent.com/74242736/157290801-d02332f8-b699-4d19-aeda-cad7719f8d21.png">
 
