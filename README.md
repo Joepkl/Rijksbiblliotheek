@@ -61,6 +61,12 @@ Ook ben ik bezig geweest om de hash states toe te voegen aan de SPA van het Rijk
 <img width="905" alt="Schermafbeelding 2022-03-11 om 10 50 23" src="https://user-images.githubusercontent.com/74242736/157843566-078a5108-497d-4b91-b47a-df1f36e85d04.png">
 
 
+## Activity diagram
+Ik heb een activity diagram gemaakt om duidelijk in beeld te brengen welke JS wanneer wordt aangeroepen. In het diagram zijn de verschillende pagina's en states van de webapp te zien. De verbanden tussen de pagina's zijn met pijlen aangegeven, en daaronder staat vermeld welke JS module wordt aangeroepen.
+
+<img width="1068" alt="Schermafbeelding 2022-03-11 om 11 40 40" src="https://user-images.githubusercontent.com/74242736/157851842-fbdc686e-4692-4100-8f75-2ee2e80f08b3.png">
+
+
 
 ## Eindproduct
 <img width="615" alt="Schermafbeelding 2022-03-08 om 18 18 25" src="https://user-images.githubusercontent.com/74242736/157290801-d02332f8-b699-4d19-aeda-cad7719f8d21.png">
