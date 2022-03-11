@@ -50,15 +50,15 @@ Ook ben ik bezig geweest om de hash states toe te voegen aan de SPA van het Rijk
 ## Verschillende states
 
 ### Empty state
-<img width="350" alt="Schermafbeelding 2022-03-11 om 10 51 27" src="https://user-images.githubusercontent.com/74242736/157843764-d4fffe11-11fe-42a6-9757-d1c8b481dea4.png">
+<img width="450" alt="Schermafbeelding 2022-03-11 om 10 51 27" src="https://user-images.githubusercontent.com/74242736/157843764-d4fffe11-11fe-42a6-9757-d1c8b481dea4.png">
 
 
 ### Loading state
-<img width="350" alt="Schermafbeelding 2022-03-11 om 10 49 23" src="https://user-images.githubusercontent.com/74242736/157843443-f7ba7f45-0613-4fd4-a6b8-e3304ec8dd30.png">
+<img width="450" alt="Schermafbeelding 2022-03-11 om 10 49 23" src="https://user-images.githubusercontent.com/74242736/157843443-f7ba7f45-0613-4fd4-a6b8-e3304ec8dd30.png">
 
 
 ### Error state
-<img width="350" alt="Schermafbeelding 2022-03-11 om 10 50 23" src="https://user-images.githubusercontent.com/74242736/157843566-078a5108-497d-4b91-b47a-df1f36e85d04.png">
+<img width="450" alt="Schermafbeelding 2022-03-11 om 10 50 23" src="https://user-images.githubusercontent.com/74242736/157843566-078a5108-497d-4b91-b47a-df1f36e85d04.png">
 
 
 ## Activity diagram
