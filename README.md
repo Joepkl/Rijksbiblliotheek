@@ -44,21 +44,21 @@ In de derde week ben ik de grote function om data te laden en renderen op gaan s
 ### Hash URL
 Ook ben ik bezig geweest om de hash states toe te voegen aan de SPA van het Rijksmuseum. Met hulp van Jorn is het uiteindelijk gelukt om de hash toe te voegen aan de URL. Als je zoekt naar een kunstwerk wordt de zoekopdracht toegevoegd aan de URL en krijg je de zoekresultaten te zien. Alleen werken de loading en error state niet meer. Ook werd de uitgelichte kunstwerken constant vervangen door: "Zoekresultaten voor" terwijl dit pas de bedoeling is als de zoekopdracht wordt ingevoerd. Ik heb hier samen met Jorn nog aan gezeten alleen lukte ons het niet om het helemaal werkend te krijgen. Vandaar dat ik de versie van de SPA met hash states in een apart mapje in Github heb gezet. Zo kon ik toch laten zien dat ik met de hash states heb geëxperimenteerd. De livelink op Github is de versie van mijn SPA waarin alles nog werkte zoals ik bedoelde zonder de routie. Hieronder nog een foto om te laten zien dat de hash achter de URL komt te staan na een zoekopdracht.
 
-<img width="350" alt="Schermafbeelding 2022-03-11 om 11 12 23" src="https://user-images.githubusercontent.com/74242736/157847345-d5396b7c-e52a-402d-92dd-864bde70a832.png">
+<img width="650" alt="Schermafbeelding 2022-03-11 om 11 12 23" src="https://user-images.githubusercontent.com/74242736/157847345-d5396b7c-e52a-402d-92dd-864bde70a832.png">
 
 
 ## Verschillende states
 
 ### Empty state
-<img width="450" alt="Schermafbeelding 2022-03-11 om 10 51 27" src="https://user-images.githubusercontent.com/74242736/157843764-d4fffe11-11fe-42a6-9757-d1c8b481dea4.png">
+<img width="650" alt="Schermafbeelding 2022-03-11 om 10 51 27" src="https://user-images.githubusercontent.com/74242736/157843764-d4fffe11-11fe-42a6-9757-d1c8b481dea4.png">
 
 
 ### Loading state
-<img width="450" alt="Schermafbeelding 2022-03-11 om 10 49 23" src="https://user-images.githubusercontent.com/74242736/157843443-f7ba7f45-0613-4fd4-a6b8-e3304ec8dd30.png">
+<img width="650" alt="Schermafbeelding 2022-03-11 om 10 49 23" src="https://user-images.githubusercontent.com/74242736/157843443-f7ba7f45-0613-4fd4-a6b8-e3304ec8dd30.png">
 
 
 ### Error state
-<img width="450" alt="Schermafbeelding 2022-03-11 om 10 50 23" src="https://user-images.githubusercontent.com/74242736/157843566-078a5108-497d-4b91-b47a-df1f36e85d04.png">
+<img width="650" alt="Schermafbeelding 2022-03-11 om 10 50 23" src="https://user-images.githubusercontent.com/74242736/157843566-078a5108-497d-4b91-b47a-df1f36e85d04.png">
 
 
 ## Activity diagram
